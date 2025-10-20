@@ -4,7 +4,6 @@
 ## About me:
 >- 👨‍🎓 Phenikaa Student.
 >- 👨‍💻 Game Maker : Make games with Unity - 2 years.
->- 🌐 Simulation : Simulation with Unity.
 >- 👨‍💻 Mobile Dev :  
     - Make Mobile apps with Android Studio (Java, Kotlin) and Flutter.  
       - Jetpack Compose, Flutter.  
